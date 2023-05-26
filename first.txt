@@ -2,4 +2,8 @@ hello pushing file to git
 hello there!!!
 checking single file push on github
 changes done by b
+<<<<<<< HEAD
 adding this line from local
+=======
+adding this line from git hub
+>>>>>>> 9e5b3d9ab9a4e2f60f89fa70f242d9a725944665
