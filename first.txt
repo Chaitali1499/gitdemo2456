@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 hello pushing file to git... adding changes with local... hello
+=======
+<<<<<<< HEAD
+hello pushing file to git... adding changes with local... heyyy
+=======
+hello pushing file to git... adding changes with github
+>>>>>>> 496125b0e0902c743d842ce28fe6ab03b62f29c1
+>>>>>>> 4673f71a4e4447bfb8afa7f31188eefb0f474bd9
 hello there!!!
 checking single file push on github
 changes done by b
 adding this line from local
+<<<<<<< HEAD
 heyyy
+=======
+=======
+adding this line from git hub
+>>>>>>> 9e5b3d9ab9a4e2f60f89fa70f242d9a725944665
+
+>>>>>>> 4673f71a4e4447bfb8afa7f31188eefb0f474bd9
