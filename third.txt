@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 this change in local
-=======
-This change in github
->>>>>>> 77e166b870c99f8e6064893fb00e3d7cee29e9e6
+
+adding second line of code
