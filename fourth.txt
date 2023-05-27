@@ -5,4 +5,8 @@ hello
 hiii
 >>>>>>> 4a452c672e3f014ab02896990a16e5071b93b447
 
+<<<<<<< HEAD
 this is me
+=======
+this is git
+>>>>>>> b1287ea4dc9a155dcc405580d6df9af9d63bf737
