@@ -1,7 +1,0 @@
-this change in local
-
-<<<<<<< HEAD
-adding second line of code
-=======
-adding new feature
->>>>>>> f30a228f80cad6d46beddd9de3c4e89a649d1c14
