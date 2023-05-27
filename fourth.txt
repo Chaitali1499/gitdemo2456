@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 this is local file...adding to local
-=======
-this is git file...adding to git
->>>>>>> 7e8dc01dc88952d2e30be751d515896f6578148f
+
+hello
